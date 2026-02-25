@@ -1,4 +1,4 @@
-# OaaC — Observability as Code
+# OaC — Observability as Code
 
 **Catálogos YAML como fonte única da verdade para métricas, alertas, roteamento de alertas e dashboards.**
 
@@ -12,7 +12,7 @@ A maioria das organizações monitora sua infraestrutura mas não *observa* de v
 
 Isso piora com escala. 20 serviços significam 20 conjuntos de dashboards, alertas e thresholds pra manter manualmente. Drift de configuração se torna inevitável. Responsabilização se torna impossível.
 
-**OaaC trata configuração de observabilidade da mesma forma que o Terraform trata infraestrutura: como código, versionado, validado e automatizado.**
+**OaC trata configuração de observabilidade da mesma forma que o Terraform trata infraestrutura: como código, versionado, validado e automatizado.**
 
 ---
 
@@ -326,5 +326,5 @@ Veja o [ROADMAP.md](ROADMAP.md) para o plano de evolução e descrição detalha
 
 **Ighor Pitta** — SRE Engineer
 
-- GitHub: [@ighorpitta](https://github.com/ighorpitta)
-- LinkedIn: [ighorpitta](https://www.linkedin.com/in/ighorpitta)
+- GitHub: [@ighorfellipe](https://github.com/ighorfellipe)
+- LinkedIn: [ighorfellipe](https://www.linkedin.com/in/ighorfellipe)
